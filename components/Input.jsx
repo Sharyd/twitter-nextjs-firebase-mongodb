@@ -96,7 +96,7 @@ const Input = () => {
           <textarea
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            placeholder="What's happening?"
+            placeholder="Whats happening?"
             rows="2"
             className="min-h-[50px] w-full bg-transparent text-lg tracking-wide text-[#d9d9d9] placeholder-gray-500 outline-none"
           />
